@@ -7,4 +7,4 @@ DLL Global #1 Pack
 2. Starting dataset (feel free to add your own features)
 3. Sample ARIMA pipeline
 4. Sample LSTM pipeline
-5. Notebook for expanding datset with more features fr
+5. Notebook for expanding datset with more features from World Bank
